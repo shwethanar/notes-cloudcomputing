@@ -11,11 +11,7 @@ This repository is to document the learnings on Cloud computing
 ## Amazon Kinesis Data Firehose
 Amazon Kinesis Data Firehose is an extract, transform, and load (ETL) service that reliably captures, transforms, and delivers streaming data to data lakes, data stores, and analytics services..
 
-- [Docs : Amazon Kinesis Data Firehose](https://docs.aws.amazon.com/firehose/latest/dev/what-is-this-service.html) 
-
-
-
-
+- [Docs : Amazon Kinesis Data Firehose](https://docs.aws.amazon.com/firehose/latest/dev/what-is-this-service.html) (⬇click on picture below to enlarge)
 - [![kinesisfirehose](images/AmznDataKinesisFirehose.PNG)](https://d1.awsstatic.com/pdp-how-it-works-assets/product-page-diagram_Amazon-KDF_HIW-V2-Updated-Diagram@2x.6e531854393eabf782f5a6d6d3b63f2e74de0db4.png)
 
 
